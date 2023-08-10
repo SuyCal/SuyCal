@@ -24,4 +24,3 @@
 <br>
 <p align = "center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suycal&" alt="suycal" /></p>
 
-https://icons8.com/icon/nQ4dZIRCI0nW/gmail
