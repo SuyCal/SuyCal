@@ -1,3 +1,7 @@
+<p align="center">
+    <img src="https://media.tenor.com/_i9AUV0dv_0AAAAC/welcome-banner.gif" alt="Welcome Banner" width = "60%" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Suyash Callicharan</h1>
 <h3 align="center">I make computer go Beep Boop Beep Beep Boop!</h3>
 <p align = "center"> <img src="https://art.pixilart.com/sr2712ab0b35ecd.gif" alt="suycal" width="35%" /> </p>
