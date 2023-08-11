@@ -1,5 +1,6 @@
+![header]()
 <p align="center">
-    <img src="https://media.tenor.com/_i9AUV0dv_0AAAAC/welcome-banner.gif" alt="Welcome Banner" width = "60%" />
+    <img src="https://media.tenor.com/_i9AUV0dv_0AAAAC/welcome-banner.gif" alt="MasterHead" width = "50%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Suyash Callicharan</h1>
