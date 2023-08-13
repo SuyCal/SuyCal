@@ -31,7 +31,7 @@
 <br>
 <div align="center">
 
-## 📊 Statistics
+## 📊 Stats
 
 </div>
 
