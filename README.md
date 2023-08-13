@@ -1,6 +1,6 @@
 ![Header](./ele/github-header-image.png)
 
-<h1 align="center">Hi 👋, I'm Suyash Callicharan</h1>
+<h1 align="center">Hi <img src="ele/hand.gif" alt="hand" , I'm Suyash Callicharan</h1>
 <h3 align="center">I make computer go Beep Boop Beep Beep Boop!</h3>
 <p align = "center"> <img src="https://art.pixilart.com/sr2712ab0b35ecd.gif" alt="suycal" width="35%" /> </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jfjughfu&label=Profile%20views&color=0e75b6&style=flat" alt="suycal" /> </p>
