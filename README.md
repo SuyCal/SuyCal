@@ -40,7 +40,7 @@
 
 <br>
 <br>
-<p align = center> 𝒸𝓁𝒾𝒸𝓀 𝑜𝓃 𝑅𝒾𝒸𝓀 𝒜𝓈𝓉𝓁𝑒𝓎 𝓉𝑜 𝑔𝑒𝓉 𝑅𝒾𝒸𝓀𝑒𝒹 𝑅𝑜𝓁𝓁𝑒𝒹 :) </P>
+<p align = center> 𝒸𝓁𝒾𝒸𝓀 𝑜𝓃 𝑅𝒾𝒸𝓀 𝒜𝓈𝓉𝓁𝑒𝓎 𝓉𝑜 𝑔𝑒𝓉 𝑅𝒾𝒸𝓀 𝑅𝑜𝓁𝓁𝑒𝒹 :) </P>
 <p align = center> 
 </a> <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" rel="noreferrer"> <img src="ele/rick.gif" alt="Rick Roll" width="35%" height="35%"/> </a>
 </p>
