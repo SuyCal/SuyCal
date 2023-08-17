@@ -35,10 +35,10 @@
 
 </div>
 
-<p align = "center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SuyCal&show_icons=false&cache_seconds=1800&locale=en&layout=compact" alt="suycal" />
+<p align = "center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SuyCal&show_icons=false&theme=dark&cache_seconds=1800&locale=en&layout=compact" alt="suycal" />
 </p>
 <br>
-<p align = "center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suycal&theme=dark" alt="suycal" width = "45%" /></p>
+<p align = "center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suycal&theme=dark" alt="suycal" width="60%" /></p>
 
 <br>
 <br>
