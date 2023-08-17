@@ -35,7 +35,7 @@
 
 </div>
 
-<p align = "center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=suycal&show_icons=true&cache_seconds=1800&locale=en&layout=compact" alt="suycal" />
+<p align = "center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dfnwjfwnf&show_icons=true&cache_seconds=1800&locale=en&layout=compact" alt="suycal" />
 </p>
 <br>
 <p align = "center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suycal&theme=dark" alt="suycal" /></p>
