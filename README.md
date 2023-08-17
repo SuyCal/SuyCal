@@ -15,6 +15,7 @@
 ## Connect with me:
 
 </div>
+<br>
 <p align="center">
     <a href="https://linkedin.com/in/suyash-sc-0701scal" target="blank" style="margin-left: 15 px;">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/suyash-sc-0701scal" height="50" width="50"/>
